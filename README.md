@@ -1,12 +1,11 @@
-# OSLabOfHIT
-
+OSLabOfHIT
 哈工大操作系统实验
-
+==============
 实验指导及平台资源：
 
-[实验楼实验环境][https://www.shiyanlou.com/courses/115]
+[实验楼实验环境](https://www.shiyanlou.com/courses/115)
 
-[一键配置工具及指导书][https://github.com/DeathKing/hit-oslab]
+[一键配置工具及指导书](https://github.com/DeathKing/hit-oslab)
 
 操作系统引导实验总结（实际是疑问🤔️）：
 
